@@ -1,0 +1,1 @@
+pubdate:2017-06-30 00:00:00,name:Python ,salary:8K-16K,place:上海,work_year:1-3年,degree:本科, tags:数据库,Golang,Python,company:深圳众思科技有限公司,detail:python + pg 后端开发,address:上海浦东新区峨山路200号
